@@ -1,0 +1,277 @@
+Category,MED_Version,SnomedCode_ID,IncorporatedFrom_OBJ_ID,Selected_TPG_ID,MED_ID
+Pat_ID1,int64,0.0,100.0,10005,4242337,"MotherMaidenName
+BERTHELETTE        1
+Bar                1
+Deneault, Jenna    1
+Foo                1
+MONFILS            1
+dtype: int64"
+Create_DtTm,object,0.0,52.773498711853605,0,0,"Create_DtTm
+2016-04-22 07:41:42    52
+2016-04-22 07:41:40    50
+2016-04-22 07:41:41    50
+2016-04-22 07:42:05    50
+2016-04-22 07:42:06    49
+2016-04-22 07:41:38    47
+2016-04-22 07:42:04    47
+2016-04-22 07:43:40    47
+2016-04-22 07:43:41    47
+2016-04-22 07:43:42    47
+dtype: int64"
+Create_ID,float64,0.0006639929882340443,0.02523173355289368,1.0,2910.0,"Create_DtTm
+2016-04-22 07:41:42    52
+2016-04-22 07:41:40    50
+2016-04-22 07:41:41    50
+2016-04-22 07:42:05    50
+2016-04-22 07:42:06    49
+2016-04-22 07:41:38    47
+2016-04-22 07:42:04    47
+2016-04-22 07:43:40    47
+2016-04-22 07:43:41    47
+2016-04-22 07:43:42    47
+dtype: int64"
+Birth_DtTm,object,0.28086903402300073,18.701362513611855,0,0,"Birth_DtTm
+1949-09-25 00:00:00    30
+1947-01-01 00:00:00    26
+1949-06-04 00:00:00    26
+1944-07-07 00:00:00    23
+1954-06-24 00:00:00    23
+1955-08-02 00:00:00    22
+1921-01-01 00:00:00    21
+1939-10-02 00:00:00    21
+1944-02-06 00:00:00    21
+1944-03-11 00:00:00    21
+dtype: int64"
+Edit_DtTm,object,0.0,68.13497649464821,0,0,"Edit_DtTm
+2018-02-13 16:46:37    20
+2018-02-13 16:46:26    19
+2018-02-13 16:46:11    18
+2018-02-13 16:46:31    18
+2018-02-13 16:46:44    18
+2018-02-13 16:46:10    17
+2018-02-13 16:46:25    17
+2018-02-13 16:46:05    16
+2018-02-13 16:46:12    16
+2018-02-13 16:46:18    16
+dtype: int64"
+Edit_ID,float64,0.010623887811744708,0.07436721468221295,1.0,3149.0,"Edit_DtTm
+2018-02-13 16:46:37    20
+2018-02-13 16:46:26    19
+2018-02-13 16:46:11    18
+2018-02-13 16:46:31    18
+2018-02-13 16:46:44    18
+2018-02-13 16:46:10    17
+2018-02-13 16:46:25    17
+2018-02-13 16:46:05    16
+2018-02-13 16:46:12    16
+2018-02-13 16:46:18    16
+dtype: int64"
+Sanct_DtTm,float64,100.0,0.0,nan,nan,"Edit_DtTm
+2018-02-13 16:46:37    20
+2018-02-13 16:46:26    19
+2018-02-13 16:46:11    18
+2018-02-13 16:46:31    18
+2018-02-13 16:46:44    18
+2018-02-13 16:46:10    17
+2018-02-13 16:46:25    17
+2018-02-13 16:46:05    16
+2018-02-13 16:46:12    16
+2018-02-13 16:46:18    16
+dtype: int64"
+Sanct_ID,float64,100.0,0.0,nan,nan,"Edit_DtTm
+2018-02-13 16:46:37    20
+2018-02-13 16:46:26    19
+2018-02-13 16:46:11    18
+2018-02-13 16:46:31    18
+2018-02-13 16:46:44    18
+2018-02-13 16:46:10    17
+2018-02-13 16:46:25    17
+2018-02-13 16:46:05    16
+2018-02-13 16:46:12    16
+2018-02-13 16:46:18    16
+dtype: int64"
+Sanct_DtTm2,float64,100.0,0.0,nan,nan,"Edit_DtTm
+2018-02-13 16:46:37    20
+2018-02-13 16:46:26    19
+2018-02-13 16:46:11    18
+2018-02-13 16:46:31    18
+2018-02-13 16:46:44    18
+2018-02-13 16:46:10    17
+2018-02-13 16:46:25    17
+2018-02-13 16:46:05    16
+2018-02-13 16:46:12    16
+2018-02-13 16:46:18    16
+dtype: int64"
+Sanct_Id2,float64,100.0,0.0,nan,nan,"Edit_DtTm
+2018-02-13 16:46:37    20
+2018-02-13 16:46:26    19
+2018-02-13 16:46:11    18
+2018-02-13 16:46:31    18
+2018-02-13 16:46:44    18
+2018-02-13 16:46:10    17
+2018-02-13 16:46:25    17
+2018-02-13 16:46:05    16
+2018-02-13 16:46:12    16
+2018-02-13 16:46:18    16
+dtype: int64"
+Note_ID,float64,99.98937611218825,0.010623887811744708,867106.0,1286283.0,"Edit_DtTm
+2018-02-13 16:46:37    20
+2018-02-13 16:46:26    19
+2018-02-13 16:46:11    18
+2018-02-13 16:46:31    18
+2018-02-13 16:46:44    18
+2018-02-13 16:46:10    17
+2018-02-13 16:46:25    17
+2018-02-13 16:46:05    16
+2018-02-13 16:46:12    16
+2018-02-13 16:46:18    16
+dtype: int64"
+Salutation,object,99.99601604207061,0.001991978964702133,0,0,"Salutation
+Madame                 4
+Monsieur               1
+Monsieur le docteur    1
+dtype: int64"
+SS_Number,object,99.99203208414119,0.007967915858808532,0,0,"SS_Number
+123-45-7894        1
+BERR 4703 1818     1
+BRUL32540113       1
+GAGL49062018       1
+HENR30120317       1
+LABO52541115       1
+LAFM40592713       1
+MALS62012818       1
+PHYS99999999       1
+RQ GIRJ43551716    1
+dtype: int64"
+Last_Name,object,0.0006639929882340443,19.36867546678707,0,0,"Last_Name
+TREMBLAY    1172
+ROY          947
+GAGNON       890
+GAUTHIER     758
+COTE         745
+MORIN        618
+BELANGER     613
+BOUCHARD     592
+LAVOIE       552
+LEBLANC      546
+dtype: int64"
+First_Name,object,0.0013279859764680885,12.212159039600543,0,0,"First_Name
+MICHEL      2127
+LOUISE      2094
+LISE        2051
+DIANE       1962
+NICOLE      1912
+ANDRE       1898
+PIERRE      1852
+CLAUDE      1706
+FRANCINE    1623
+SYLVIE      1574
+dtype: int64"
+MIddle_Name,object,99.99933600701176,0.0006639929882340443,0,0,"MIddle_Name
+ALTIDOR    1
+dtype: int64"
+Suffix,object,99.99933600701176,0.0006639929882340443,0,0,"Suffix
+Fille    1
+dtype: int64"
+Alias_Name,object,99.99601604207061,0.003983957929404266,0,0,"Alias_Name
+HOSPI RIV ROUGE  APPELLER PTE LA PR RV      1
+LALONGER                                    1
+PharmacieTel450-377-1787 Fax450-377-5599    1
+RQ LEPM43570113                             1
+RQ MAID48582312                             1
+Vicky Daoust 579-491-5036 / 514-605-2260    1
+dtype: int64"
+Stmt_Cycle,int64,0.0,0.0006639929882340443,0,0,"Alias_Name
+HOSPI RIV ROUGE  APPELLER PTE LA PR RV      1
+LALONGER                                    1
+PharmacieTel450-377-1787 Fax450-377-5599    1
+RQ LEPM43570113                             1
+RQ MAID48582312                             1
+Vicky Daoust 579-491-5036 / 514-605-2260    1
+dtype: int64"
+Use_Alternate_Stmt,int64,0.0,0.0006639929882340443,0,0,"Alias_Name
+HOSPI RIV ROUGE  APPELLER PTE LA PR RV      1
+LALONGER                                    1
+PharmacieTel450-377-1787 Fax450-377-5599    1
+RQ LEPM43570113                             1
+RQ MAID48582312                             1
+Vicky Daoust 579-491-5036 / 514-605-2260    1
+dtype: int64"
+Clin_Status,int64,0.0,0.00464795091763831,1,11,"Alias_Name
+HOSPI RIV ROUGE  APPELLER PTE LA PR RV      1
+LALONGER                                    1
+PharmacieTel450-377-1787 Fax450-377-5599    1
+RQ LEPM43570113                             1
+RQ MAID48582312                             1
+Vicky Daoust 579-491-5036 / 514-605-2260    1
+dtype: int64"
+Inactive,int64,0.0,0.0013279859764680885,0,1,"Alias_Name
+HOSPI RIV ROUGE  APPELLER PTE LA PR RV      1
+LALONGER                                    1
+PharmacieTel450-377-1787 Fax450-377-5599    1
+RQ LEPM43570113                             1
+RQ MAID48582312                             1
+Vicky Daoust 579-491-5036 / 514-605-2260    1
+dtype: int64"
+Restricted,int64,0.0,0.0013279859764680885,0,3,"Alias_Name
+HOSPI RIV ROUGE  APPELLER PTE LA PR RV      1
+LALONGER                                    1
+PharmacieTel450-377-1787 Fax450-377-5599    1
+RQ LEPM43570113                             1
+RQ MAID48582312                             1
+Vicky Daoust 579-491-5036 / 514-605-2260    1
+dtype: int64"
+Status_Private,int64,0.0,0.0006639929882340443,0,0,"Alias_Name
+HOSPI RIV ROUGE  APPELLER PTE LA PR RV      1
+LALONGER                                    1
+PharmacieTel450-377-1787 Fax450-377-5599    1
+RQ LEPM43570113                             1
+RQ MAID48582312                             1
+Vicky Daoust 579-491-5036 / 514-605-2260    1
+dtype: int64"
+Maiden_Name,float64,100.0,0.0,nan,nan,"Alias_Name
+HOSPI RIV ROUGE  APPELLER PTE LA PR RV      1
+LALONGER                                    1
+PharmacieTel450-377-1787 Fax450-377-5599    1
+RQ LEPM43570113                             1
+RQ MAID48582312                             1
+Vicky Daoust 579-491-5036 / 514-605-2260    1
+dtype: int64"
+Last_Name_Secondary,object,99.99933600701176,0.0006639929882340443,0,0,"Last_Name_Secondary
+MALETTE    1
+dtype: int64"
+First_Name_Secondary,object,99.99933600701176,0.0006639929882340443,0,0,"First_Name_Secondary
+SAMUEL    1
+dtype: int64"
+Middle_Name_Secondary,float64,100.0,0.0,nan,nan,"First_Name_Secondary
+SAMUEL    1
+dtype: int64"
+Last_Name_SingleByte,float64,100.0,0.0,nan,nan,"First_Name_Secondary
+SAMUEL    1
+dtype: int64"
+First_Name_SingleByte,float64,100.0,0.0,nan,nan,"First_Name_Secondary
+SAMUEL    1
+dtype: int64"
+Middle_Name_SingleByte,float64,100.0,0.0,nan,nan,"First_Name_Secondary
+SAMUEL    1
+dtype: int64"
+MultipleBirth_PRO_ID,float64,99.99933600701176,0.0006639929882340443,14289.0,14289.0,"First_Name_Secondary
+SAMUEL    1
+dtype: int64"
+MultipleBirthOrder,float64,100.0,0.0,nan,nan,"First_Name_Secondary
+SAMUEL    1
+dtype: int64"
+MotherMaidenName,object,99.99668003505883,0.0033199649411702215,0,0,"MotherMaidenName
+BERTHELETTE        1
+Bar                1
+Deneault, Jenna    1
+Foo                1
+MONFILS            1
+dtype: int64"
+RowVers,float64,100.0,0.0,nan,nan,"MotherMaidenName
+BERTHELETTE        1
+Bar                1
+Deneault, Jenna    1
+Foo                1
+MONFILS            1
+dtype: int64"
